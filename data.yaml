@@ -1,0 +1,13 @@
+train: C:/PROJECTS 2025/GIST CSE/Fabric/FD_Dataset/FD_Dataset/YOLO/train/images
+val: C:/PROJECTS 2025/GIST CSE/Fabric/FD_Dataset/FD_Dataset/YOLO/valid/images
+test: C:/PROJECTS 2025/GIST CSE/Fabric/FD_Dataset/FD_Dataset/YOLO/test/images
+
+nc: 4
+names: ['0', '1', '2', '3']
+
+roboflow:
+  workspace: fd-oymgc
+  project: fb-ynxs8
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/fd-oymgc/fb-ynxs8/dataset/1
